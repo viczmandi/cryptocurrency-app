@@ -1,3 +1,8 @@
+# Credit
+
+Channel: https://www.youtube.com/c/JavaScriptMastery \
+Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video: https://youtu.be/9DDX3US3kss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
